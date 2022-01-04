@@ -12,6 +12,8 @@ manga = input("""
 2 - Bleach
 3 - Tokyo Ghoul
 4 - One Punch Man
+5 - Uzumaki
+6 - Yu Yu Hakusho
 
 
 => """)
@@ -24,3 +26,7 @@ elif manga == "3":
     import tokyoGhoul
 elif manga == "4":
     import onePunch
+elif manga == "5":
+    import uzumaki
+elif manga == "6":
+    import yuyuhakusho
