@@ -1,0 +1,31 @@
+{
+  "one-piece": {
+    "name": "One Piece",
+    "id": 2
+  },
+
+  "bleach": {
+    "name": "Bleach",
+    "id": 552
+  },
+
+  "one-punch-man": {
+    "name": "One Punch Man",
+    "id": 3262
+  },
+
+  "tokyo-ghoul": {
+    "name": "Tokyo Ghoul",
+    "id": 4524
+  },
+
+  "uzumaki": {
+    "name": "Uzumaki",
+    "id": 4717
+  },
+
+  "yu-yu-hakusho": {
+    "name": "Yu Yu Hakusho",
+    "id": 4926
+  }
+}
